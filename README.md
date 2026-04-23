@@ -30,7 +30,6 @@ The study evaluates three experimental axes on ARM Morello Board with CheriBSD: 
 - `analyses/01_memory/` — scripted analysis and outputs for Section 4.1
 - `analyses/02_communication/` — archived manual analysis artefacts for Section 4.2
 - `analyses/03_crypto/` — scripted analysis and outputs for Section 4.3
-- `paper/` — manuscript PDF plus copies of paper-facing tables and figures
 - `docs/` — environment, provenance, 3R policy, and result mapping
 - `scripts/` — convenience wrappers and repository verification helpers
 
