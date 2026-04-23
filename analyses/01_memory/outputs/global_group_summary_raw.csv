@@ -1,0 +1,9 @@
+OutlierStatus,Variable,GlobalGroupP,GlobalEffectSizeName,GlobalEffectSizeMedian,GlobalEffectSizeIQR
+With_Outliers,Allocation Time (ms),6.736498713496145e-43,epsilon_squared,0.41331767372958694,0.13835797241868197
+With_Outliers,Free Time (ms),9.725697840467225e-49,epsilon_squared,0.703023000964206,0.0119217000417845
+With_Outliers,Read Time (ms),1.7818079378733575e-58,epsilon_squared,0.8881978421201748,5.305484309836572e-05
+With_Outliers,Write Time (ms),1.7071074050007972e-58,epsilon_squared,0.888245379137802,0.00014248020131568673
+Without_Outliers,Allocation Time (ms),7.802334042441945e-43,epsilon_squared,0.42969097385455923,0.13688603514094844
+Without_Outliers,Free Time (ms),9.725697840467225e-49,epsilon_squared,0.7183921237280968,0.018733163348405024
+Without_Outliers,Read Time (ms),1.7818079378733575e-58,epsilon_squared,0.8881920642261101,8.046562796593104e-05
+Without_Outliers,Write Time (ms),1.7071074050007972e-58,epsilon_squared,0.8882226934564301,0.00016764994844775671

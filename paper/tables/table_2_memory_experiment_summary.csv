@@ -1,0 +1,25 @@
+Compartment,Outliers,Variable,N,Norm. (Shap.),Pearson Correl.,Spearman Correl.,Best Reg.,R²
+purecap-benchmark ABI,With,Write Time (ms),1000,Rejected (p < 0.001),0.9999999951242563,0.995015063088341,Linear,0.9999999902485125
+purecap-benchmark ABI,With,Read Time (ms),1000,Rejected (p < 0.001),0.9999999977214857,0.9950014299101201,Linear,0.9999999954429715
+purecap-benchmark ABI,With,Allocation Time (ms),1000,Rejected (p < 0.001),0.07148746931648461,0.2290567559230037,Linear,0.005110458269275253
+purecap-benchmark ABI,With,Free Time (ms),1000,Rejected (p < 0.001),0.1941477422075652,0.7819832011025831,Linear,0.037693345804295175
+purecap-benchmark ABI,Without,Write Time (ms),989,Rejected (p < 0.001),0.9999999959651156,0.9950136974113951,Linear,0.9999999919302315
+purecap-benchmark ABI,Without,Read Time (ms),994,Rejected (p < 0.001),0.9999999979899133,0.9950010114150458,Linear,0.999999995979827
+purecap-benchmark ABI,Without,Allocation Time (ms),983,Rejected (p < 0.001),-0.11933605370375824,0.2142133467412501,Linear,0.014241093713586284
+purecap-benchmark ABI,Without,Free Time (ms),957,Rejected (p < 0.001),0.051463343621884226,0.7825585534821896,Linear,0.0026484757367438716
+purecap ABI,With,Write Time (ms),1000,Rejected (p < 0.001),0.9999999653155509,0.9949882927969197,Linear,0.9999999306311034
+purecap ABI,With,Read Time (ms),1000,Rejected (p < 0.001),0.9999999870342817,0.994988385331003,Linear,0.9999999740685636
+purecap ABI,With,Allocation Time (ms),1000,Rejected (p < 0.001),0.06922413557953341,0.23639455912747526,Linear,0.0047919809467339425
+purecap ABI,With,Free Time (ms),1000,Rejected (p < 0.001),0.19316237179499246,0.781572045730689,Linear,0.037311701877466685
+purecap ABI,Without,Write Time (ms),984,Rejected (p < 0.001),0.9999999732286822,0.9949818009339674,Linear,0.9999999464573649
+purecap ABI,Without,Read Time (ms),994,Rejected (p < 0.001),0.9999999900554536,0.9949868204563339,Linear,0.9999999801109074
+purecap ABI,Without,Allocation Time (ms),983,Rejected (p < 0.001),-0.12627598017859765,0.22209729563749916,Linear,0.015945623170065648
+purecap ABI,Without,Free Time (ms),956,Rejected (p < 0.001),0.049198521759263106,0.7829426194397395,Linear,0.002420494543296736
+outside compartment,With,Write Time (ms),1000,Rejected (p < 0.001),0.9999999990583269,0.9949903106427865,Linear,0.999999998116654
+outside compartment,With,Read Time (ms),1000,Rejected (p < 0.001),0.9999999984530858,0.9949904748171768,Linear,0.9999999969061719
+outside compartment,With,Allocation Time (ms),1000,Rejected (p < 0.001),0.20414508432063663,0.505608130944228,Cubic Polynomial,0.07164153937290674
+outside compartment,With,Free Time (ms),1000,Rejected (p < 0.001),0.7369496302275851,0.8656443178272736,Cubic Polynomial,0.6619821909597161
+outside compartment,Without,Write Time (ms),989,Rejected (p < 0.001),0.9999999992840118,0.9949871904070792,Linear,0.9999999985680234
+outside compartment,Without,Read Time (ms),991,Rejected (p < 0.001),0.9999999992799904,0.9949870724376135,Linear,0.9999999985599811
+outside compartment,Without,Allocation Time (ms),992,Rejected (p < 0.001),0.5615560941878271,0.5193521307496672,Cubic Polynomial,0.4734428969353468
+outside compartment,Without,Free Time (ms),998,Rejected (p < 0.001),0.7404070638321538,0.8670677936550474,Cubic Polynomial,0.6725703206728781

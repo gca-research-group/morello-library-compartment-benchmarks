@@ -1,0 +1,13 @@
+Experiment,Outliers,Variable,Total Count,Count After Filtering,Count Removed,% Removed,Normality (Shapiro),Shapiro p-value,Test Applied,Test p-value,Correlation,Correlation Coefficient,Correlation p-value,Best Regression,R²
+purecap ABI,With_Outliers,Write Time (ms),600,600,0,0.0,No,3.7870861026093683e-47,Kruskal-Wallis,9.12429512450793e-104,Spearman,0.8694214181117064,2.884785599312923e-185,Cubic Polynomial,0.004231805864704952
+purecap ABI,Without_Outliers,Write Time (ms),600,584,16,2.67,No,1.5608418443261641e-29,Kruskal-Wallis,2.6291604958791993e-103,Spearman,0.8743021486688618,7.553210005799036e-185,Cubic Polynomial,0.9141548159103265
+purecap ABI,With_Outliers,Read Time (ms),600,600,0,0.0,No,2.8490014820866974e-26,Kruskal-Wallis,8.007321122011631e-76,Spearman,0.700998607368102,7.476844675357142e-90,Linear,0.7867026609751208
+purecap ABI,Without_Outliers,Read Time (ms),600,600,0,0.0,No,2.8490014820866974e-26,Kruskal-Wallis,8.007321122011631e-76,Spearman,0.700998607368102,7.476844675357142e-90,Linear,0.7867026609751208
+purecap-benchmark ABI,With_Outliers,Write Time (ms),600,600,0,0.0,No,4.101101711483218e-46,Kruskal-Wallis,3.3389747723900104e-103,Spearman,0.853075967720774,4.395239722837842e-171,Linear,0.014527843571100818
+purecap-benchmark ABI,Without_Outliers,Write Time (ms),600,561,39,6.5,No,6.44674224831901e-25,Kruskal-Wallis,4.272965779370378e-99,Spearman,0.8508324078971405,2.3389518398344528e-158,Cubic Polynomial,0.7720563094201651
+purecap-benchmark ABI,With_Outliers,Read Time (ms),600,600,0,0.0,No,9.082471118450737e-24,Kruskal-Wallis,6.029579415375387e-62,Spearman,0.6725606947902286,3.1630113791258527e-80,Linear,0.5599332556447871
+purecap-benchmark ABI,Without_Outliers,Read Time (ms),600,599,1,0.17,No,9.144391076475532e-24,Kruskal-Wallis,2.648987480547938e-63,Spearman,0.6796215913992752,2.2220702213246954e-82,Linear,0.5939092839432278
+Outside compartment,With_Outliers,Write Time (ms),600,600,0,0.0,No,7.56931236517742e-46,Kruskal-Wallis,1.0280466072106599e-105,Spearman,0.8740223591000259,1.3154234362192868e-189,Cubic Polynomial,0.019389077832521195
+Outside compartment,Without_Outliers,Write Time (ms),600,559,41,6.83,No,7.577961999218018e-20,Kruskal-Wallis,2.2292429137599134e-99,Spearman,0.8627430115889035,4.3014301705996836e-167,Linear,0.7427952846658081
+Outside compartment,With_Outliers,Read Time (ms),600,600,0,0.0,No,6.25665223202271e-23,Kruskal-Wallis,4.969407950519031e-75,Spearman,0.731975226730834,9.920965833201491e-102,Linear,0.5300261889545348
+Outside compartment,Without_Outliers,Read Time (ms),600,578,22,3.67,No,1.203970391105094e-20,Kruskal-Wallis,1.6909102914591363e-70,Spearman,0.708367590250854,3.3625326286190806e-89,Cubic Polynomial,0.5195643722116525

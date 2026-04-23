@@ -1,0 +1,73 @@
+Input Size (bytes),Input Size,OutlierStatus,Variable,Comparison,ExperimentA,ExperimentB,CliffsDelta,MedianRatio_A_over_B
+1048576,1 MB,With_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.8696197753080455
+1048576,1 MB,With_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.9009875573810096
+16777216,16 MB,With_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.8857526433002265
+16777216,16 MB,With_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.91548819782439
+67108864,64 MB,With_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.886750744130227
+67108864,64 MB,With_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.916830894236532
+104857600,100 MB,With_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.886092714681361
+104857600,100 MB,With_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.916514383266965
+1048576,1 MB,With_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,23.715852389261332
+1048576,1 MB,With_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.736838782257323
+16777216,16 MB,With_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.000901112140944
+16777216,16 MB,With_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.97620526241032
+67108864,64 MB,With_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,23.98039360160106
+67108864,64 MB,With_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.958871797136446
+104857600,100 MB,With_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,23.989668118888044
+104857600,100 MB,With_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.965629757966475
+1048576,1 MB,With_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.889151719763632
+1048576,1 MB,With_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.856780702036097
+16777216,16 MB,With_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.974408410827273
+16777216,16 MB,With_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.952117509207614
+67108864,64 MB,With_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.982625550781112
+67108864,64 MB,With_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.96090452754007
+104857600,100 MB,With_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.98536941330304
+104857600,100 MB,With_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.96614986843551
+1024,1 KB,With_Outliers,Ed25519 sign,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.2335013526731817
+1024,1 KB,With_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.1490451977898994
+4096,4 KB,With_Outliers,Ed25519 sign,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.2442867817612902
+4096,4 KB,With_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.1435699051948254
+16384,16 KB,With_Outliers,Ed25519 sign,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.2006848188757513
+16384,16 KB,With_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.1617519905366624
+1024,1 KB,With_Outliers,Ed25519 verify,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.0916905060892697
+1024,1 KB,With_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.0745469271293868
+4096,4 KB,With_Outliers,Ed25519 verify,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.0970620031520404
+4096,4 KB,With_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.0765751880297723
+16384,16 KB,With_Outliers,Ed25519 verify,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.113250654928209
+16384,16 KB,With_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.0816063998713594
+1048576,1 MB,Without_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.869643477341709
+1048576,1 MB,Without_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.9009966325898855
+16777216,16 MB,Without_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.8858351220921445
+16777216,16 MB,Without_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.915502696513475
+67108864,64 MB,Without_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.886808668801619
+67108864,64 MB,Without_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.916881834266307
+104857600,100 MB,Without_Outliers,SHA-256,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,7.886107849616199
+104857600,100 MB,Without_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,7.91652957658686
+1048576,1 MB,Without_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,23.69710042547741
+1048576,1 MB,Without_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.718630480853516
+16777216,16 MB,Without_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.001082369823806
+16777216,16 MB,Without_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.97480383217522
+67108864,64 MB,Without_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,23.979923219824112
+67108864,64 MB,Without_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.9597284572466
+104857600,100 MB,Without_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,23.99049472062696
+104857600,100 MB,Without_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,23.96640607861092
+1048576,1 MB,Without_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.888909855564144
+1048576,1 MB,Without_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.859314055144587
+16777216,16 MB,Without_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.974398942329238
+16777216,16 MB,Without_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.951168660514785
+67108864,64 MB,Without_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.982642058850757
+67108864,64 MB,Without_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.960854376670795
+104857600,100 MB,Without_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,24.98520087519775
+104857600,100 MB,Without_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,24.965981469201523
+1024,1 KB,Without_Outliers,Ed25519 sign,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.2172263018239198
+1024,1 KB,Without_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.147897070620697
+4096,4 KB,Without_Outliers,Ed25519 sign,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.238694308424093
+4096,4 KB,Without_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.143671226051552
+16384,16 KB,Without_Outliers,Ed25519 sign,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.1999077006317733
+16384,16 KB,Without_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.1615238943967918
+1024,1 KB,Without_Outliers,Ed25519 verify,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.091449658325184
+1024,1 KB,Without_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.0744610336146194
+4096,4 KB,Without_Outliers,Ed25519 verify,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.0968826883556688
+4096,4 KB,Without_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.0764855712176908
+16384,16 KB,Without_Outliers,Ed25519 verify,purecap ABI vs outside compartment,purecap ABI,outside compartment,1.0,1.113195714659002
+16384,16 KB,Without_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,purecap-benchmark ABI,outside compartment,1.0,1.0815782597334727

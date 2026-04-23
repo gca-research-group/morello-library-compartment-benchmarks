@@ -1,0 +1,21 @@
+OutlierStatus,Variable,Comparison,Median Cliff's Delta,IQR Cliff's Delta,Median Ratio,IQR Median Ratio
+With_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,1.0,0.0,24.978516980804194,0.030217278350232135
+With_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,1.0,0.0,24.956511018373842,0.033932555349196036
+With_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,1.0,0.0,23.985030860244553,0.07821806868513903
+With_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,1.0,0.0,23.96225077755146,0.06491009066077069
+With_Outliers,Ed25519 sign,purecap ABI vs outside compartment,1.0,0.0,1.2335013526731817,0.02180098144276954
+With_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,1.0,0.0,1.1490451977898994,0.009091042670918537
+With_Outliers,Ed25519 verify,purecap ABI vs outside compartment,1.0,0.0,1.0970620031520404,0.01078007441946971
+With_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,1.0,0.0,1.0765751880297723,0.0035297363709863028
+With_Outliers,SHA-256,purecap ABI vs outside compartment,1.0,0.0,7.885922678990793,0.004537795741395456
+With_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,1.0,0.0,7.916001290545678,0.004730473295811777
+Without_Outliers,AES-256-GCM decrypt,purecap ABI vs outside compartment,1.0,0.0,24.978520500589998,0.03025509229954082
+Without_Outliers,AES-256-GCM decrypt,purecap-benchmark ABI vs outside compartment,1.0,0.0,24.95601151859279,0.033931140631242585
+Without_Outliers,AES-256-GCM encrypt,purecap ABI vs outside compartment,1.0,0.0,23.985208970225536,0.08392411168873437
+Without_Outliers,AES-256-GCM encrypt,purecap-benchmark ABI vs outside compartment,1.0,0.0,23.96306726792876,0.06905155385366157
+Without_Outliers,Ed25519 sign,purecap ABI vs outside compartment,1.0,0.0,1.2172263018239198,0.019393303896159786
+Without_Outliers,Ed25519 sign,purecap-benchmark ABI vs outside compartment,1.0,0.0,1.147897070620697,0.008926334172619788
+Without_Outliers,Ed25519 verify,purecap ABI vs outside compartment,1.0,0.0,1.0968826883556688,0.010873028166908938
+Without_Outliers,Ed25519 verify,purecap-benchmark ABI vs outside compartment,1.0,0.0,1.0764855712176908,0.0035586130594265075
+Without_Outliers,SHA-256,purecap ABI vs outside compartment,1.0,0.0,7.885971485854172,0.004495843508017572
+Without_Outliers,SHA-256,purecap-benchmark ABI vs outside compartment,1.0,0.0,7.916016136550168,0.0047414604741442545

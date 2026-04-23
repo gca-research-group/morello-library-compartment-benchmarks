@@ -1,0 +1,17 @@
+OutlierStatus,Variable,Comparison,MedianCliffsDelta,IQRCliffsDelta,MedianMedianRatio,IQRMedianRatio
+With_Outliers,Allocation Time (ms),purecap ABI vs outside compartment,0.961,0.08630000000000004,2.1999999999999997,0.25
+With_Outliers,Allocation Time (ms),purecap-benchmark ABI vs outside compartment,0.40415,0.41159999999999997,1.5,0.3500000000000001
+With_Outliers,Free Time (ms),purecap ABI vs outside compartment,1.0,0.0,8.4375,4.661642156862746
+With_Outliers,Free Time (ms),purecap-benchmark ABI vs outside compartment,1.0,0.0,8.34375,5.124019607843136
+With_Outliers,Read Time (ms),purecap ABI vs outside compartment,1.0,0.0,1.0019459324283047,1.2463637526938243e-05
+With_Outliers,Read Time (ms),purecap-benchmark ABI vs outside compartment,-1.0,0.0,0.2857080055699657,4.3814648291173874e-06
+With_Outliers,Write Time (ms),purecap ABI vs outside compartment,1.0,0.0,1.0022836969016053,2.47921508222948e-05
+With_Outliers,Write Time (ms),purecap-benchmark ABI vs outside compartment,-1.0,0.0,0.1428530142737864,2.4936741613301727e-06
+Without_Outliers,Allocation Time (ms),purecap ABI vs outside compartment,0.9763624247525762,0.08378319275226498,2.1999999999999997,0.25
+Without_Outliers,Allocation Time (ms),purecap-benchmark ABI vs outside compartment,0.3890467171717171,0.3974997580722355,1.5,0.3500000000000001
+Without_Outliers,Free Time (ms),purecap ABI vs outside compartment,1.0,0.0,8.4375,4.619975490196079
+Without_Outliers,Free Time (ms),purecap-benchmark ABI vs outside compartment,1.0,0.0,8.34375,5.109313725490194
+Without_Outliers,Read Time (ms),purecap ABI vs outside compartment,1.0,0.0,1.0019458224865836,1.330410303679308e-05
+Without_Outliers,Read Time (ms),purecap-benchmark ABI vs outside compartment,-1.0,0.0,0.2857078942292973,4.609662730081787e-06
+Without_Outliers,Write Time (ms),purecap ABI vs outside compartment,1.0,0.0,1.002280414362906,2.3315365836218405e-05
+Without_Outliers,Write Time (ms),purecap-benchmark ABI vs outside compartment,-1.0,0.0,0.14285281767494634,2.2743833535399105e-06
