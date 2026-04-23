@@ -1,5 +1,4 @@
 # original_relative_path -> preserved_relative_path | size_bytes | sha256
-COSE_2025__Régis____Experiments_Morello_Board (5).pdf -> paper/manuscript/COSE_2025_morello_library_compartment_performance.pdf | 1516099 | 5049e1059d5fa6c4fc6ef514e9c07cfae321e2e5e6c12b1c8d4b5310e05c72ee
 crypto_statistical_results/block_size_group_comparison_summary_raw.csv -> analyses/03_crypto/outputs/block_size_group_comparison_summary_raw.csv | 8019 | dc83d0e25bc9909d8ae0d817be42e67918b93955ec1f988575c2dec65adcb26f
 crypto_statistical_results/combined_qqplots_data_With_Outliers.svg -> analyses/03_crypto/outputs/combined_qqplots_data_With_Outliers.svg | 909345 | 1e56281f4de35ede2e3ff67681bd55c1b0c0f741bc2126ebb514396ea4c0b785
 crypto_statistical_results/combined_qqplots_data_Without_Outliers.svg -> analyses/03_crypto/outputs/combined_qqplots_data_Without_Outliers.svg | 883094 | 3c1b9f50f82c7e325c61223938dbf44955a98e42b9fe3a33708b37715f6e80d3
